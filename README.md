@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-➢ Overview
-➢ Understanding and scope of the assignment
-➢ Analysis
-➢ Preliminary observation and recommendation
+- Overview
+- Understanding and scope of the assignment
+- Analysis
+- Preliminary observation and recommendation
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -34,9 +34,10 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy
+- pandas
+- seaborn
+- matplotlib
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
